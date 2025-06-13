@@ -1,0 +1,25 @@
+Method 1 (all permutations):
+        Expected values:
+                Player 1: 0.9999999999999999
+                Player 2: 50.0
+                Player 3: 55.00000000000001
+
+Method 2 (strategic permutations):
+        Expected values:
+                Player 1: 1.0
+                Player 2: 50.0
+                Player 3: 65.0
+---------------------
+Expected values:
+        Player p1:
+                Player p1: 4.166666666666667
+                Player p2: 0.0
+                Player p3: 0.8333333333333334
+        Player p2:
+                Player p1: 0.6666666666666666
+                Player p2: 7.000000000000001
+                Player p3: 6.333333333333334
+        Player p3:
+                Player p1: 3.333333333333333
+                Player p2: 2.5
+                Player p3: 3.166666666666667

@@ -1,0 +1,10 @@
+Webster example
+Seats allocated with webster method: [0, 1, 4]
+Seats allocated with apparentment 0 and 1: [0, 2, 3]
+Seats allocated with webster method for 2 parties: [2, 3]
+after the apparentment: [0, 2]
+Jefferson example
+Seats allocated with jefferson method: [0, 1, 4]
+Seats allocated with apparentment 0 and 1: [0, 2, 3]
+Seats allocated with jefferson method for 2 parties: [2, 3]
+after the apparentment: [0, 2]

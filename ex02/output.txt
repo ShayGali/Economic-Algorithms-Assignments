@@ -1,0 +1,25 @@
+Example of max-sum allocation (problom 4.1)
+Ami gets 1.0000 % of steel and 0.0000 % of oil.
+Tammy gets 0.0000 % of steel and 1.0000 % of oil.
+Ami's value is 1.0000 and Tammy's value is 0.7000.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Example of max-sqrt-sum allocation (problom 4.2)
+For t>= 0.68
+Ami gets 0.6945 % of steel and 0.0000 % of oil.
+Tammy gets 0.3055 % of steel and 1.0000 % of oil.
+Ami's value is 0.6945 and Tammy's value is 0.4444.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+For t<0.68
+Ami gets 1.0000 % of steel and 0.0000 % of oil.
+Tammy gets 0.0000 % of steel and 1.0000 % of oil.
+Ami's value is 1.0000 and Tammy's value is 0.8000.
+Example of max-product allocation (problom 4.3)
+For t<=0/5
+Ami gets 1.0000 % of steel and 0.0000 % of oil.
+Tammy gets 0.0000 % of steel and 1.0000 % of oil.
+Ami's value is 1.0000 and Tammy's value is 0.8000.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+For t>0.5
+Ami gets 0.6250 % of steel and 0.0000 % of oil.
+Tammy gets 0.3750 % of steel and 1.0000 % of oil.
+Ami's value is 0.6250 and Tammy's value is 0.5000.
